@@ -3,7 +3,7 @@ My Tmux configuration files.
 
 # How To Install
 
-Firstly, install Tmux.
+Firstly, install Tmux. Then install TPM.
 To install the config, delete your existing `tmux` configuration file. This should be located at:
 
 - Linux and Mac: `~/.config/tmux/`
