@@ -13,4 +13,4 @@ Next, clone this repository into the following folder:
 - Linux and Mac:`~/.config/`
 - Windows: `Get fucked`
 
-with `git clone https://github.com/linux-terminal-setup/tmux-config ~/.config/tmux/`
+with `git clone https://github.com/unix-terminal-setup/tmux-config ~/.config/tmux/`
